@@ -12,6 +12,12 @@ npm init -y
 npm install express -E
 ```
 
+## Ejecución del proyecto
+
+```bash
+npm run dev:1
+```
+    
 ## Configuración de seguridad
 
 Para ocultar el header que identifica Express:
