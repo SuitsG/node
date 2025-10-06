@@ -1,0 +1,13 @@
+GET http://localhost:1234/familia
+
+###
+GET http://localhost:1234/
+### Para crear una cosa
+POST http://localhost:1234/pokemon
+Content-Type: application/json
+
+{
+  "nombre": "Gonzalez",
+  "integrantes": 4,
+  "pais": "Argentina"
+}
