@@ -16,7 +16,21 @@ Content-Type: application/json
 
 ## Api Rest con Node.js y Express
 ### Recuperar una Pelicula por su ID
-GET http://localhost:1234/movies/1 
+GET http://localhost:1234/movies/514163
 
 ### Recuperar todas las Peliculas por un genero
-GET http://localhost:1234/movies?genre=ACTION
+GET http://localhost:1234/movies?genre=HORROR
+
+### Crear una nueva pelicula
+POST http://localhost:1234/movies/
+Content-Type: application/json
+
+{
+    "title": "Digital Dream",
+    "year": 1971,
+    "genre": "Horror",
+    "director": "Steven Spielberg",
+    "rating": 8.8,
+    "duration": 157,
+    "description": "An exciting drama movie that captivates audiences."
+}
