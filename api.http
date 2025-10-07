@@ -11,3 +11,12 @@ Content-Type: application/json
   "integrantes": 4,
   "pais": "Argentina"
 }
+
+
+
+## Api Rest con Node.js y Express
+### Recuperar una Pelicula por su ID
+GET http://localhost:1234/movies/1 
+
+### Recuperar todas las Peliculas por un genero
+GET http://localhost:1234/movies?genre=ACTION

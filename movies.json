@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Dream",
+    "year": 1971,
+    "genre": "Horror",
+    "director": "Steven Spielberg",
+    "rating": 8.8,
+    "duration": 157,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 2,
+    "title": "Time Traveler",
+    "year": 1983,
+    "genre": "Animation",
+    "director": "Alfred Hitchcock",
+    "rating": 5.3,
+    "duration": 120,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 3,
+    "title": "Time Traveler",
+    "year": 1977,
+    "genre": "Animation",
+    "director": "Stanley Kubrick",
+    "rating": 5.9,
+    "duration": 97,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 4,
+    "title": "Dark Night",
+    "year": 2002,
+    "genre": "Animation",
+    "director": "Steven Spielberg",
+    "rating": 8.3,
+    "duration": 164,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 5,
+    "title": "Crystal Vision",
+    "year": 2008,
+    "genre": "Romance",
+    "director": "Ridley Scott",
+    "rating": 8.6,
+    "duration": 131,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 6,
+    "title": "Rising Sun",
+    "year": 1970,
+    "genre": "Thriller",
+    "director": "Clint Eastwood",
+    "rating": 5.1,
+    "duration": 174,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 7,
+    "title": "Ancient Secret",
+    "year": 1994,
+    "genre": "Animation",
+    "director": "Alfred Hitchcock",
+    "rating": 5.1,
+    "duration": 128,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 8,
+    "title": "Lost Journey",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "director": "Quentin Tarantino",
+    "rating": 6.2,
+    "duration": 93,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 9,
+    "title": "Iron Will",
+    "year": 2014,
+    "genre": "Thriller",
+    "director": "Wes Anderson",
+    "rating": 5.8,
+    "duration": 111,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 10,
+    "title": "Ocean Deep",
+    "year": 2023,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "rating": 5.5,
+    "duration": 173,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 11,
+    "title": "Space Odyssey",
+    "year": 2021,
+    "genre": "Drama",
+    "director": "Wes Anderson",
+    "rating": 7.5,
+    "duration": 167,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 12,
+    "title": "Silver Lining",
+    "year": 1986,
+    "genre": "Drama",
+    "director": "Quentin Tarantino",
+    "rating": 8.7,
+    "duration": 114,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 13,
+    "title": "Mountain High",
+    "year": 1984,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "rating": 5.3,
+    "duration": 119,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 14,
+    "title": "Forest Mystery",
+    "year": 1985,
+    "genre": "Horror",
+    "director": "Steven Spielberg",
+    "rating": 7.3,
+    "duration": 158,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 15,
+    "title": "Forgotten Path",
+    "year": 2000,
+    "genre": "Sci-Fi",
+    "director": "Alfred Hitchcock",
+    "rating": 6.5,
+    "duration": 149,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 16,
+    "title": "Iron Will",
+    "year": 2021,
+    "genre": "Thriller",
+    "director": "Quentin Tarantino",
+    "rating": 6.6,
+    "duration": 138,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 17,
+    "title": "Modern Life",
+    "year": 2021,
+    "genre": "Fantasy",
+    "director": "Clint Eastwood",
+    "rating": 6.1,
+    "duration": 142,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 18,
+    "title": "Golden Age",
+    "year": 1980,
+    "genre": "Thriller",
+    "director": "Sofia Coppola",
+    "rating": 7.6,
+    "duration": 106,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 19,
+    "title": "Virtual Reality",
+    "year": 2022,
+    "genre": "Comedy",
+    "director": "Alfred Hitchcock",
+    "rating": 5.2,
+    "duration": 123,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 20,
+    "title": "Forest Mystery",
+    "year": 2010,
+    "genre": "Fantasy",
+    "director": "James Cameron",
+    "rating": 7.1,
+    "duration": 140,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 21,
+    "title": "Ocean Deep",
+    "year": 2014,
+    "genre": "Adventure",
+    "director": "Martin Scorsese",
+    "rating": 5.4,
+    "duration": 129,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 22,
+    "title": "Lost Journey",
+    "year": 2014,
+    "genre": "Fantasy",
+    "director": "Clint Eastwood",
+    "rating": 6.8,
+    "duration": 129,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 23,
+    "title": "Time Traveler",
+    "year": 2008,
+    "genre": "Horror",
+    "director": "Martin Scorsese",
+    "rating": 8.4,
+    "duration": 87,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 24,
+    "title": "Space Odyssey",
+    "year": 2020,
+    "genre": "Action",
+    "director": "Ridley Scott",
+    "rating": 6.2,
+    "duration": 124,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 25,
+    "title": "Analog Heart",
+    "year": 2018,
+    "genre": "Action",
+    "director": "Denis Villeneuve",
+    "rating": 7.3,
+    "duration": 105,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 26,
+    "title": "Golden Age",
+    "year": 1987,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "rating": 9,
+    "duration": 97,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 27,
+    "title": "Virtual Reality",
+    "year": 1988,
+    "genre": "Adventure",
+    "director": "Sofia Coppola",
+    "rating": 8.3,
+    "duration": 145,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 28,
+    "title": "Time Traveler",
+    "year": 2017,
+    "genre": "Animation",
+    "director": "Christopher Nolan",
+    "rating": 5.2,
+    "duration": 151,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 29,
+    "title": "Desert Wind",
+    "year": 1984,
+    "genre": "Sci-Fi",
+    "director": "Stanley Kubrick",
+    "rating": 8.4,
+    "duration": 150,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 30,
+    "title": "Time Traveler",
+    "year": 1990,
+    "genre": "Action",
+    "director": "Stanley Kubrick",
+    "rating": 6.7,
+    "duration": 155,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 31,
+    "title": "Silver Lining 31",
+    "year": 1981,
+    "genre": "Fantasy",
+    "director": "Stanley Kubrick",
+    "rating": 9.3,
+    "duration": 151,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 32,
+    "title": "The Shadow 32",
+    "year": 2006,
+    "genre": "Adventure",
+    "director": "Francis Ford Coppola",
+    "rating": 6.2,
+    "duration": 107,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 33,
+    "title": "Space Odyssey 33",
+    "year": 2001,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "rating": 7.9,
+    "duration": 161,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 34,
+    "title": "Time Traveler 34",
+    "year": 2002,
+    "genre": "Thriller",
+    "director": "Christopher Nolan",
+    "rating": 5.4,
+    "duration": 90,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 35,
+    "title": "Ocean Deep 35",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "Christopher Nolan",
+    "rating": 5.4,
+    "duration": 141,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 36,
+    "title": "City Lights 36",
+    "year": 1972,
+    "genre": "Sci-Fi",
+    "director": "Clint Eastwood",
+    "rating": 6,
+    "duration": 173,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 37,
+    "title": "Lost Journey 37",
+    "year": 2014,
+    "genre": "Romance",
+    "director": "David Fincher",
+    "rating": 7.2,
+    "duration": 168,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 38,
+    "title": "Virtual Reality 38",
+    "year": 1974,
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "rating": 5.9,
+    "duration": 158,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 39,
+    "title": "Storm Rider 39",
+    "year": 2019,
+    "genre": "Adventure",
+    "director": "Christopher Nolan",
+    "rating": 7.9,
+    "duration": 111,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 40,
+    "title": "Storm Rider 40",
+    "year": 1992,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 5.4,
+    "duration": 171,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 41,
+    "title": "Midnight Express 41",
+    "year": 2010,
+    "genre": "Romance",
+    "director": "Stanley Kubrick",
+    "rating": 9.5,
+    "duration": 168,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 42,
+    "title": "Forest Mystery 42",
+    "year": 1982,
+    "genre": "Horror",
+    "director": "Denis Villeneuve",
+    "rating": 5,
+    "duration": 167,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 43,
+    "title": "Ocean Deep 43",
+    "year": 2022,
+    "genre": "Adventure",
+    "director": "Denis Villeneuve",
+    "rating": 9.4,
+    "duration": 123,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 44,
+    "title": "Lost Journey 44",
+    "year": 1994,
+    "genre": "Romance",
+    "director": "Sofia Coppola",
+    "rating": 5.1,
+    "duration": 126,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 45,
+    "title": "Final Destination 45",
+    "year": 2007,
+    "genre": "Comedy",
+    "director": "Quentin Tarantino",
+    "rating": 7.8,
+    "duration": 90,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 46,
+    "title": "Dark Night 46",
+    "year": 2019,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 9.9,
+    "duration": 146,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 47,
+    "title": "Forgotten Path 47",
+    "year": 1996,
+    "genre": "Fantasy",
+    "director": "Clint Eastwood",
+    "rating": 5.4,
+    "duration": 99,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 48,
+    "title": "Ancient Secret 48",
+    "year": 2015,
+    "genre": "Adventure",
+    "director": "David Fincher",
+    "rating": 5.3,
+    "duration": 129,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 49,
+    "title": "Golden Age 49",
+    "year": 1978,
+    "genre": "Horror",
+    "director": "Steven Spielberg",
+    "rating": 6.6,
+    "duration": 99,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 50,
+    "title": "Digital Dream 50",
+    "year": 1982,
+    "genre": "Animation",
+    "director": "James Cameron",
+    "rating": 8.2,
+    "duration": 105,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 51,
+    "title": "Desert Wind 51",
+    "year": 2009,
+    "genre": "Comedy",
+    "director": "Quentin Tarantino",
+    "rating": 5.4,
+    "duration": 162,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 52,
+    "title": "Forgotten Path 52",
+    "year": 1971,
+    "genre": "Adventure",
+    "director": "Ridley Scott",
+    "rating": 7.2,
+    "duration": 118,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 53,
+    "title": "Desert Wind 53",
+    "year": 1975,
+    "genre": "Fantasy",
+    "director": "Quentin Tarantino",
+    "rating": 8.9,
+    "duration": 163,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 54,
+    "title": "Iron Will 54",
+    "year": 2012,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 6.8,
+    "duration": 97,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 55,
+    "title": "The Shadow 55",
+    "year": 1981,
+    "genre": "Fantasy",
+    "director": "Denis Villeneuve",
+    "rating": 8.6,
+    "duration": 175,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 56,
+    "title": "Golden Age 56",
+    "year": 1991,
+    "genre": "Fantasy",
+    "director": "Quentin Tarantino",
+    "rating": 5.9,
+    "duration": 87,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 57,
+    "title": "Storm Rider 57",
+    "year": 2012,
+    "genre": "Sci-Fi",
+    "director": "Steven Spielberg",
+    "rating": 8,
+    "duration": 129,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 58,
+    "title": "Digital Dream 58",
+    "year": 1973,
+    "genre": "Drama",
+    "director": "James Cameron",
+    "rating": 6.9,
+    "duration": 94,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 59,
+    "title": "The Shadow 59",
+    "year": 1988,
+    "genre": "Horror",
+    "director": "Steven Spielberg",
+    "rating": 8.2,
+    "duration": 155,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 60,
+    "title": "Ancient Secret 60",
+    "year": 2004,
+    "genre": "Action",
+    "director": "Denis Villeneuve",
+    "rating": 8.1,
+    "duration": 97,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 61,
+    "title": "Forgotten Path 61",
+    "year": 2010,
+    "genre": "Adventure",
+    "director": "Ridley Scott",
+    "rating": 6.6,
+    "duration": 136,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 62,
+    "title": "Silver Lining 62",
+    "year": 2010,
+    "genre": "Drama",
+    "director": "Peter Jackson",
+    "rating": 7,
+    "duration": 83,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 63,
+    "title": "Ocean Deep 63",
+    "year": 2022,
+    "genre": "Drama",
+    "director": "Denis Villeneuve",
+    "rating": 6.5,
+    "duration": 166,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 64,
+    "title": "Forgotten Path 64",
+    "year": 1982,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 6.1,
+    "duration": 115,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 65,
+    "title": "Hidden Truth 65",
+    "year": 1993,
+    "genre": "Horror",
+    "director": "Denis Villeneuve",
+    "rating": 7.5,
+    "duration": 157,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 66,
+    "title": "Time Traveler 66",
+    "year": 2008,
+    "genre": "Animation",
+    "director": "Ridley Scott",
+    "rating": 7.1,
+    "duration": 163,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 67,
+    "title": "Mountain High 67",
+    "year": 1991,
+    "genre": "Horror",
+    "director": "Ridley Scott",
+    "rating": 5.5,
+    "duration": 106,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 68,
+    "title": "Ocean Deep 68",
+    "year": 2006,
+    "genre": "Thriller",
+    "director": "Francis Ford Coppola",
+    "rating": 5.4,
+    "duration": 179,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 69,
+    "title": "Modern Life 69",
+    "year": 1978,
+    "genre": "Sci-Fi",
+    "director": "Ridley Scott",
+    "rating": 6.6,
+    "duration": 120,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 70,
+    "title": "Space Odyssey 70",
+    "year": 2023,
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "rating": 6.3,
+    "duration": 97,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 71,
+    "title": "Desert Wind 71",
+    "year": 2016,
+    "genre": "Adventure",
+    "director": "Wes Anderson",
+    "rating": 8.3,
+    "duration": 133,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 72,
+    "title": "Broken Dreams 72",
+    "year": 1983,
+    "genre": "Adventure",
+    "director": "Alfred Hitchcock",
+    "rating": 6.6,
+    "duration": 93,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 73,
+    "title": "Silver Lining 73",
+    "year": 2018,
+    "genre": "Romance",
+    "director": "Wes Anderson",
+    "rating": 8.5,
+    "duration": 140,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 74,
+    "title": "Space Odyssey 74",
+    "year": 2000,
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "rating": 7.9,
+    "duration": 164,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 75,
+    "title": "Virtual Reality 75",
+    "year": 2023,
+    "genre": "Horror",
+    "director": "Sofia Coppola",
+    "rating": 9.7,
+    "duration": 136,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 76,
+    "title": "Storm Rider 76",
+    "year": 2000,
+    "genre": "Action",
+    "director": "Steven Spielberg",
+    "rating": 5.7,
+    "duration": 173,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 77,
+    "title": "Lost Journey 77",
+    "year": 2007,
+    "genre": "Action",
+    "director": "Ridley Scott",
+    "rating": 8.4,
+    "duration": 176,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 78,
+    "title": "Ocean Deep 78",
+    "year": 1979,
+    "genre": "Fantasy",
+    "director": "Quentin Tarantino",
+    "rating": 6.2,
+    "duration": 114,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 79,
+    "title": "Silver Lining 79",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "director": "Francis Ford Coppola",
+    "rating": 10,
+    "duration": 136,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 80,
+    "title": "Time Traveler 80",
+    "year": 1983,
+    "genre": "Fantasy",
+    "director": "Francis Ford Coppola",
+    "rating": 7.5,
+    "duration": 163,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 81,
+    "title": "Dark Night 81",
+    "year": 1980,
+    "genre": "Romance",
+    "director": "Steven Spielberg",
+    "rating": 6.5,
+    "duration": 157,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 82,
+    "title": "Broken Dreams 82",
+    "year": 2019,
+    "genre": "Adventure",
+    "director": "Christopher Nolan",
+    "rating": 7.2,
+    "duration": 95,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 83,
+    "title": "Broken Dreams 83",
+    "year": 1975,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 6.8,
+    "duration": 88,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 84,
+    "title": "The Shadow 84",
+    "year": 2014,
+    "genre": "Comedy",
+    "director": "Clint Eastwood",
+    "rating": 7.6,
+    "duration": 145,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 85,
+    "title": "Broken Dreams 85",
+    "year": 2023,
+    "genre": "Drama",
+    "director": "Christopher Nolan",
+    "rating": 6.3,
+    "duration": 92,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 86,
+    "title": "Silver Lining 86",
+    "year": 2024,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "rating": 7.9,
+    "duration": 93,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 87,
+    "title": "The Shadow 87",
+    "year": 1987,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 5.9,
+    "duration": 110,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 88,
+    "title": "Desert Wind 88",
+    "year": 1978,
+    "genre": "Adventure",
+    "director": "Wes Anderson",
+    "rating": 6.1,
+    "duration": 111,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 89,
+    "title": "Analog Heart 89",
+    "year": 1974,
+    "genre": "Adventure",
+    "director": "Sofia Coppola",
+    "rating": 7.9,
+    "duration": 113,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 90,
+    "title": "Silver Lining 90",
+    "year": 2013,
+    "genre": "Thriller",
+    "director": "James Cameron",
+    "rating": 6.3,
+    "duration": 117,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 91,
+    "title": "Ancient Secret 91",
+    "year": 1998,
+    "genre": "Fantasy",
+    "director": "Steven Spielberg",
+    "rating": 6,
+    "duration": 87,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 92,
+    "title": "Modern Life 92",
+    "year": 1987,
+    "genre": "Animation",
+    "director": "Peter Jackson",
+    "rating": 7.9,
+    "duration": 176,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 93,
+    "title": "Desert Wind 93",
+    "year": 2017,
+    "genre": "Thriller",
+    "director": "Wes Anderson",
+    "rating": 9.1,
+    "duration": 173,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 94,
+    "title": "Storm Rider 94",
+    "year": 2021,
+    "genre": "Comedy",
+    "director": "David Fincher",
+    "rating": 6.8,
+    "duration": 94,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 95,
+    "title": "Ancient Secret 95",
+    "year": 1982,
+    "genre": "Animation",
+    "director": "Steven Spielberg",
+    "rating": 9.8,
+    "duration": 167,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 96,
+    "title": "Storm Rider 96",
+    "year": 2022,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "rating": 5.6,
+    "duration": 117,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 97,
+    "title": "Future Past 97",
+    "year": 2010,
+    "genre": "Romance",
+    "director": "James Cameron",
+    "rating": 6.4,
+    "duration": 150,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 98,
+    "title": "City Lights 98",
+    "year": 1972,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 5.6,
+    "duration": 89,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 99,
+    "title": "Hidden Truth 99",
+    "year": 2020,
+    "genre": "Animation",
+    "director": "Stanley Kubrick",
+    "rating": 9.1,
+    "duration": 140,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 100,
+    "title": "Time Traveler 100",
+    "year": 2012,
+    "genre": "Horror",
+    "director": "Denis Villeneuve",
+    "rating": 7.3,
+    "duration": 116,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 101,
+    "title": "Rising Sun 101",
+    "year": 2014,
+    "genre": "Animation",
+    "director": "Sofia Coppola",
+    "rating": 9.3,
+    "duration": 97,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 102,
+    "title": "Modern Life 102",
+    "year": 1990,
+    "genre": "Romance",
+    "director": "Wes Anderson",
+    "rating": 6.7,
+    "duration": 148,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 103,
+    "title": "Rising Sun 103",
+    "year": 1970,
+    "genre": "Romance",
+    "director": "Peter Jackson",
+    "rating": 8.4,
+    "duration": 143,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 104,
+    "title": "Future Past 104",
+    "year": 1996,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 8.1,
+    "duration": 126,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 105,
+    "title": "Ocean Deep 105",
+    "year": 2009,
+    "genre": "Romance",
+    "director": "Sofia Coppola",
+    "rating": 7.7,
+    "duration": 134,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 106,
+    "title": "Crystal Vision 106",
+    "year": 1975,
+    "genre": "Fantasy",
+    "director": "James Cameron",
+    "rating": 6.4,
+    "duration": 124,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 107,
+    "title": "Lost Journey 107",
+    "year": 1976,
+    "genre": "Action",
+    "director": "Clint Eastwood",
+    "rating": 6.5,
+    "duration": 121,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 108,
+    "title": "Golden Age 108",
+    "year": 2023,
+    "genre": "Sci-Fi",
+    "director": "Steven Spielberg",
+    "rating": 8.2,
+    "duration": 147,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 109,
+    "title": "Silent Whisper 109",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "rating": 9.8,
+    "duration": 115,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 110,
+    "title": "Modern Life 110",
+    "year": 1989,
+    "genre": "Action",
+    "director": "Steven Spielberg",
+    "rating": 5.8,
+    "duration": 109,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 111,
+    "title": "Broken Dreams 111",
+    "year": 2013,
+    "genre": "Action",
+    "director": "Denis Villeneuve",
+    "rating": 5,
+    "duration": 93,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 112,
+    "title": "Forgotten Path 112",
+    "year": 2008,
+    "genre": "Romance",
+    "director": "Stanley Kubrick",
+    "rating": 9,
+    "duration": 175,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 113,
+    "title": "Forest Mystery 113",
+    "year": 2020,
+    "genre": "Adventure",
+    "director": "Francis Ford Coppola",
+    "rating": 8.4,
+    "duration": 89,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 114,
+    "title": "Dark Night 114",
+    "year": 1970,
+    "genre": "Sci-Fi",
+    "director": "Martin Scorsese",
+    "rating": 5.4,
+    "duration": 162,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 115,
+    "title": "City Lights 115",
+    "year": 2013,
+    "genre": "Drama",
+    "director": "Francis Ford Coppola",
+    "rating": 6.8,
+    "duration": 163,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 116,
+    "title": "Ocean Deep 116",
+    "year": 1977,
+    "genre": "Fantasy",
+    "director": "Alfred Hitchcock",
+    "rating": 8.7,
+    "duration": 173,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 117,
+    "title": "Time Traveler 117",
+    "year": 2010,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 8.1,
+    "duration": 149,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 118,
+    "title": "Silent Whisper 118",
+    "year": 1982,
+    "genre": "Comedy",
+    "director": "Alfred Hitchcock",
+    "rating": 9.7,
+    "duration": 100,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 119,
+    "title": "Storm Rider 119",
+    "year": 1972,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 9.2,
+    "duration": 90,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 120,
+    "title": "Virtual Reality 120",
+    "year": 2004,
+    "genre": "Adventure",
+    "director": "Denis Villeneuve",
+    "rating": 8,
+    "duration": 172,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 121,
+    "title": "Dark Night 121",
+    "year": 1999,
+    "genre": "Comedy",
+    "director": "Stanley Kubrick",
+    "rating": 7.8,
+    "duration": 95,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 122,
+    "title": "Lost Journey 122",
+    "year": 1992,
+    "genre": "Sci-Fi",
+    "director": "Denis Villeneuve",
+    "rating": 6.2,
+    "duration": 133,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 123,
+    "title": "Silent Whisper 123",
+    "year": 2004,
+    "genre": "Action",
+    "director": "Martin Scorsese",
+    "rating": 6,
+    "duration": 172,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 124,
+    "title": "Golden Age 124",
+    "year": 2009,
+    "genre": "Thriller",
+    "director": "Christopher Nolan",
+    "rating": 6.8,
+    "duration": 165,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 125,
+    "title": "Analog Heart 125",
+    "year": 2021,
+    "genre": "Comedy",
+    "director": "James Cameron",
+    "rating": 5.7,
+    "duration": 157,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 126,
+    "title": "Analog Heart 126",
+    "year": 1971,
+    "genre": "Drama",
+    "director": "Sofia Coppola",
+    "rating": 5.5,
+    "duration": 104,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 127,
+    "title": "Desert Wind 127",
+    "year": 2015,
+    "genre": "Adventure",
+    "director": "Christopher Nolan",
+    "rating": 8.9,
+    "duration": 115,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 128,
+    "title": "Broken Dreams 128",
+    "year": 1975,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 5.7,
+    "duration": 86,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 129,
+    "title": "Country Roads 129",
+    "year": 1976,
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "rating": 6.9,
+    "duration": 162,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 130,
+    "title": "Broken Dreams 130",
+    "year": 1989,
+    "genre": "Thriller",
+    "director": "Martin Scorsese",
+    "rating": 9.5,
+    "duration": 96,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 131,
+    "title": "Future Past 131",
+    "year": 2002,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 7.3,
+    "duration": 82,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 132,
+    "title": "Analog Heart 132",
+    "year": 1972,
+    "genre": "Sci-Fi",
+    "director": "Denis Villeneuve",
+    "rating": 6,
+    "duration": 81,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 133,
+    "title": "Space Odyssey 133",
+    "year": 1974,
+    "genre": "Fantasy",
+    "director": "Francis Ford Coppola",
+    "rating": 9.7,
+    "duration": 80,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 134,
+    "title": "Virtual Reality 134",
+    "year": 2010,
+    "genre": "Comedy",
+    "director": "Ridley Scott",
+    "rating": 9.9,
+    "duration": 147,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 135,
+    "title": "Future Past 135",
+    "year": 1985,
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "rating": 9.9,
+    "duration": 85,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 136,
+    "title": "Analog Heart 136",
+    "year": 1970,
+    "genre": "Fantasy",
+    "director": "Clint Eastwood",
+    "rating": 7.9,
+    "duration": 80,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 137,
+    "title": "Modern Life 137",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "director": "Martin Scorsese",
+    "rating": 9.3,
+    "duration": 95,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 138,
+    "title": "Ancient Secret 138",
+    "year": 1988,
+    "genre": "Comedy",
+    "director": "Denis Villeneuve",
+    "rating": 8.4,
+    "duration": 117,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 139,
+    "title": "Silver Lining 139",
+    "year": 1979,
+    "genre": "Horror",
+    "director": "Denis Villeneuve",
+    "rating": 7.4,
+    "duration": 136,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 140,
+    "title": "Crystal Vision 140",
+    "year": 1972,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 7.9,
+    "duration": 160,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 141,
+    "title": "Modern Life 141",
+    "year": 1982,
+    "genre": "Romance",
+    "director": "Stanley Kubrick",
+    "rating": 6.1,
+    "duration": 149,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 142,
+    "title": "Forgotten Path 142",
+    "year": 2010,
+    "genre": "Drama",
+    "director": "Peter Jackson",
+    "rating": 9.8,
+    "duration": 158,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 143,
+    "title": "Virtual Reality 143",
+    "year": 2001,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "rating": 8.8,
+    "duration": 103,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 144,
+    "title": "Desert Wind 144",
+    "year": 2021,
+    "genre": "Romance",
+    "director": "Peter Jackson",
+    "rating": 7.2,
+    "duration": 139,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 145,
+    "title": "Analog Heart 145",
+    "year": 2018,
+    "genre": "Thriller",
+    "director": "Alfred Hitchcock",
+    "rating": 7.1,
+    "duration": 157,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 146,
+    "title": "Analog Heart 146",
+    "year": 2005,
+    "genre": "Adventure",
+    "director": "Stanley Kubrick",
+    "rating": 5.7,
+    "duration": 83,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 147,
+    "title": "City Lights 147",
+    "year": 2010,
+    "genre": "Drama",
+    "director": "Peter Jackson",
+    "rating": 9.9,
+    "duration": 127,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 148,
+    "title": "Hidden Truth 148",
+    "year": 1994,
+    "genre": "Romance",
+    "director": "James Cameron",
+    "rating": 7.2,
+    "duration": 154,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 149,
+    "title": "Crystal Vision 149",
+    "year": 2010,
+    "genre": "Comedy",
+    "director": "Ridley Scott",
+    "rating": 6.4,
+    "duration": 131,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 150,
+    "title": "Rising Sun 150",
+    "year": 1973,
+    "genre": "Action",
+    "director": "David Fincher",
+    "rating": 7.1,
+    "duration": 101,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 151,
+    "title": "City Lights 151",
+    "year": 2003,
+    "genre": "Romance",
+    "director": "Sofia Coppola",
+    "rating": 6,
+    "duration": 85,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 152,
+    "title": "Crystal Vision 152",
+    "year": 2002,
+    "genre": "Romance",
+    "director": "Denis Villeneuve",
+    "rating": 6,
+    "duration": 91,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 153,
+    "title": "Crystal Vision 153",
+    "year": 2006,
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "rating": 8,
+    "duration": 89,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 154,
+    "title": "Forgotten Path 154",
+    "year": 2011,
+    "genre": "Comedy",
+    "director": "Stanley Kubrick",
+    "rating": 6,
+    "duration": 159,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 155,
+    "title": "Storm Rider 155",
+    "year": 1973,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 9.5,
+    "duration": 152,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 156,
+    "title": "Desert Wind 156",
+    "year": 1993,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 5.4,
+    "duration": 83,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 157,
+    "title": "Broken Dreams 157",
+    "year": 2011,
+    "genre": "Animation",
+    "director": "Steven Spielberg",
+    "rating": 9.6,
+    "duration": 155,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 158,
+    "title": "Broken Dreams 158",
+    "year": 1983,
+    "genre": "Romance",
+    "director": "Christopher Nolan",
+    "rating": 8.6,
+    "duration": 137,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 159,
+    "title": "Final Destination 159",
+    "year": 2010,
+    "genre": "Comedy",
+    "director": "Quentin Tarantino",
+    "rating": 6.8,
+    "duration": 169,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 160,
+    "title": "Rising Sun 160",
+    "year": 2012,
+    "genre": "Adventure",
+    "director": "Quentin Tarantino",
+    "rating": 8.6,
+    "duration": 126,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 161,
+    "title": "Forest Mystery 161",
+    "year": 2023,
+    "genre": "Thriller",
+    "director": "Denis Villeneuve",
+    "rating": 8.3,
+    "duration": 139,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 162,
+    "title": "Rising Sun 162",
+    "year": 1974,
+    "genre": "Fantasy",
+    "director": "Martin Scorsese",
+    "rating": 7.5,
+    "duration": 89,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 163,
+    "title": "Virtual Reality 163",
+    "year": 2006,
+    "genre": "Thriller",
+    "director": "David Fincher",
+    "rating": 5.7,
+    "duration": 108,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 164,
+    "title": "Time Traveler 164",
+    "year": 2005,
+    "genre": "Horror",
+    "director": "Peter Jackson",
+    "rating": 8.4,
+    "duration": 88,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 165,
+    "title": "Silent Whisper 165",
+    "year": 2012,
+    "genre": "Action",
+    "director": "David Fincher",
+    "rating": 6.1,
+    "duration": 112,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 166,
+    "title": "Space Odyssey 166",
+    "year": 2014,
+    "genre": "Drama",
+    "director": "Steven Spielberg",
+    "rating": 8.2,
+    "duration": 120,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 167,
+    "title": "Midnight Express 167",
+    "year": 1993,
+    "genre": "Adventure",
+    "director": "Christopher Nolan",
+    "rating": 9.8,
+    "duration": 115,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 168,
+    "title": "Time Traveler 168",
+    "year": 2004,
+    "genre": "Sci-Fi",
+    "director": "Stanley Kubrick",
+    "rating": 7,
+    "duration": 136,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 169,
+    "title": "Dark Night 169",
+    "year": 1989,
+    "genre": "Horror",
+    "director": "Alfred Hitchcock",
+    "rating": 9.2,
+    "duration": 122,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 170,
+    "title": "Desert Wind 170",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "director": "Peter Jackson",
+    "rating": 9.1,
+    "duration": 84,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 171,
+    "title": "Broken Dreams 171",
+    "year": 1995,
+    "genre": "Action",
+    "director": "David Fincher",
+    "rating": 6.8,
+    "duration": 157,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 172,
+    "title": "Silver Lining 172",
+    "year": 1992,
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "rating": 6,
+    "duration": 168,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 173,
+    "title": "Silent Whisper 173",
+    "year": 1993,
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "rating": 7.3,
+    "duration": 94,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 174,
+    "title": "Virtual Reality 174",
+    "year": 1992,
+    "genre": "Sci-Fi",
+    "director": "Quentin Tarantino",
+    "rating": 7.7,
+    "duration": 162,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 175,
+    "title": "Lost Journey 175",
+    "year": 2005,
+    "genre": "Comedy",
+    "director": "Christopher Nolan",
+    "rating": 5.9,
+    "duration": 156,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 176,
+    "title": "Golden Age 176",
+    "year": 2001,
+    "genre": "Fantasy",
+    "director": "Denis Villeneuve",
+    "rating": 8.5,
+    "duration": 137,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 177,
+    "title": "Space Odyssey 177",
+    "year": 2006,
+    "genre": "Horror",
+    "director": "Peter Jackson",
+    "rating": 5.6,
+    "duration": 121,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 178,
+    "title": "Rising Sun 178",
+    "year": 2024,
+    "genre": "Fantasy",
+    "director": "Martin Scorsese",
+    "rating": 8,
+    "duration": 165,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 179,
+    "title": "Forest Mystery 179",
+    "year": 2019,
+    "genre": "Fantasy",
+    "director": "Denis Villeneuve",
+    "rating": 8.2,
+    "duration": 117,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 180,
+    "title": "Future Past 180",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Alfred Hitchcock",
+    "rating": 7.1,
+    "duration": 113,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 181,
+    "title": "Virtual Reality 181",
+    "year": 2013,
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "rating": 6,
+    "duration": 121,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 182,
+    "title": "Golden Age 182",
+    "year": 1993,
+    "genre": "Sci-Fi",
+    "director": "Clint Eastwood",
+    "rating": 6.6,
+    "duration": 138,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 183,
+    "title": "Digital Dream 183",
+    "year": 1993,
+    "genre": "Fantasy",
+    "director": "Wes Anderson",
+    "rating": 6,
+    "duration": 127,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 184,
+    "title": "Mountain High 184",
+    "year": 2003,
+    "genre": "Animation",
+    "director": "Clint Eastwood",
+    "rating": 6.2,
+    "duration": 149,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 185,
+    "title": "Crystal Vision 185",
+    "year": 2017,
+    "genre": "Romance",
+    "director": "Christopher Nolan",
+    "rating": 9.1,
+    "duration": 137,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 186,
+    "title": "Future Past 186",
+    "year": 2012,
+    "genre": "Comedy",
+    "director": "Francis Ford Coppola",
+    "rating": 8.6,
+    "duration": 97,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 187,
+    "title": "Storm Rider 187",
+    "year": 2022,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 7.9,
+    "duration": 123,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 188,
+    "title": "Storm Rider 188",
+    "year": 2009,
+    "genre": "Romance",
+    "director": "Stanley Kubrick",
+    "rating": 5.1,
+    "duration": 108,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 189,
+    "title": "Time Traveler 189",
+    "year": 2013,
+    "genre": "Comedy",
+    "director": "Christopher Nolan",
+    "rating": 7.1,
+    "duration": 127,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 190,
+    "title": "Forest Mystery 190",
+    "year": 2003,
+    "genre": "Sci-Fi",
+    "director": "Stanley Kubrick",
+    "rating": 7.5,
+    "duration": 123,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 191,
+    "title": "Lost Journey 191",
+    "year": 1999,
+    "genre": "Horror",
+    "director": "Sofia Coppola",
+    "rating": 9.3,
+    "duration": 131,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 192,
+    "title": "Golden Age 192",
+    "year": 1990,
+    "genre": "Fantasy",
+    "director": "Sofia Coppola",
+    "rating": 5.3,
+    "duration": 176,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 193,
+    "title": "Midnight Express 193",
+    "year": 2005,
+    "genre": "Sci-Fi",
+    "director": "Ridley Scott",
+    "rating": 5.5,
+    "duration": 128,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 194,
+    "title": "Iron Will 194",
+    "year": 2001,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 5.2,
+    "duration": 143,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 195,
+    "title": "Space Odyssey 195",
+    "year": 2020,
+    "genre": "Action",
+    "director": "Quentin Tarantino",
+    "rating": 9.8,
+    "duration": 102,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 196,
+    "title": "Forest Mystery 196",
+    "year": 1987,
+    "genre": "Horror",
+    "director": "Peter Jackson",
+    "rating": 6.3,
+    "duration": 82,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 197,
+    "title": "The Shadow 197",
+    "year": 1998,
+    "genre": "Action",
+    "director": "Stanley Kubrick",
+    "rating": 7,
+    "duration": 174,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 198,
+    "title": "Analog Heart 198",
+    "year": 1979,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 9.8,
+    "duration": 127,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 199,
+    "title": "Space Odyssey 199",
+    "year": 2012,
+    "genre": "Animation",
+    "director": "Sofia Coppola",
+    "rating": 6.1,
+    "duration": 124,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 200,
+    "title": "Crystal Vision 200",
+    "year": 1974,
+    "genre": "Animation",
+    "director": "Peter Jackson",
+    "rating": 6.7,
+    "duration": 153,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 201,
+    "title": "Iron Will 201",
+    "year": 2014,
+    "genre": "Adventure",
+    "director": "Denis Villeneuve",
+    "rating": 8.6,
+    "duration": 107,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 202,
+    "title": "Dark Night 202",
+    "year": 2016,
+    "genre": "Action",
+    "director": "Sofia Coppola",
+    "rating": 9.7,
+    "duration": 179,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 203,
+    "title": "Final Destination 203",
+    "year": 1993,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "rating": 7.9,
+    "duration": 93,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 204,
+    "title": "Rising Sun 204",
+    "year": 2002,
+    "genre": "Thriller",
+    "director": "Denis Villeneuve",
+    "rating": 7.6,
+    "duration": 102,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 205,
+    "title": "Midnight Express 205",
+    "year": 2000,
+    "genre": "Action",
+    "director": "Martin Scorsese",
+    "rating": 8.1,
+    "duration": 100,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 206,
+    "title": "Final Destination 206",
+    "year": 1990,
+    "genre": "Sci-Fi",
+    "director": "David Fincher",
+    "rating": 7.3,
+    "duration": 174,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 207,
+    "title": "Broken Dreams 207",
+    "year": 1986,
+    "genre": "Horror",
+    "director": "Quentin Tarantino",
+    "rating": 8.9,
+    "duration": 101,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 208,
+    "title": "The Shadow 208",
+    "year": 1970,
+    "genre": "Adventure",
+    "director": "Christopher Nolan",
+    "rating": 9.1,
+    "duration": 105,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 209,
+    "title": "Future Past 209",
+    "year": 2010,
+    "genre": "Thriller",
+    "director": "James Cameron",
+    "rating": 9.7,
+    "duration": 84,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 210,
+    "title": "Dark Night 210",
+    "year": 1980,
+    "genre": "Action",
+    "director": "Alfred Hitchcock",
+    "rating": 6.9,
+    "duration": 159,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 211,
+    "title": "Crystal Vision 211",
+    "year": 1988,
+    "genre": "Romance",
+    "director": "James Cameron",
+    "rating": 6.6,
+    "duration": 117,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 212,
+    "title": "Rising Sun 212",
+    "year": 2003,
+    "genre": "Action",
+    "director": "David Fincher",
+    "rating": 6.6,
+    "duration": 129,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 213,
+    "title": "Broken Dreams 213",
+    "year": 1995,
+    "genre": "Romance",
+    "director": "James Cameron",
+    "rating": 5.7,
+    "duration": 127,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 214,
+    "title": "Modern Life 214",
+    "year": 1974,
+    "genre": "Action",
+    "director": "Alfred Hitchcock",
+    "rating": 6.4,
+    "duration": 141,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 215,
+    "title": "Hidden Truth 215",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "director": "Quentin Tarantino",
+    "rating": 9.6,
+    "duration": 81,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 216,
+    "title": "City Lights 216",
+    "year": 2010,
+    "genre": "Animation",
+    "director": "James Cameron",
+    "rating": 8.2,
+    "duration": 175,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 217,
+    "title": "Country Roads 217",
+    "year": 1975,
+    "genre": "Thriller",
+    "director": "Ridley Scott",
+    "rating": 8.3,
+    "duration": 154,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 218,
+    "title": "Final Destination 218",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Peter Jackson",
+    "rating": 5.6,
+    "duration": 93,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 219,
+    "title": "Space Odyssey 219",
+    "year": 2008,
+    "genre": "Animation",
+    "director": "Quentin Tarantino",
+    "rating": 6,
+    "duration": 168,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 220,
+    "title": "Eternal Love 220",
+    "year": 1976,
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "rating": 7.2,
+    "duration": 127,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 221,
+    "title": "Mountain High 221",
+    "year": 2006,
+    "genre": "Comedy",
+    "director": "Stanley Kubrick",
+    "rating": 9.3,
+    "duration": 178,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 222,
+    "title": "The Shadow 222",
+    "year": 1974,
+    "genre": "Action",
+    "director": "James Cameron",
+    "rating": 7,
+    "duration": 179,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 223,
+    "title": "Silver Lining 223",
+    "year": 1990,
+    "genre": "Romance",
+    "director": "Ridley Scott",
+    "rating": 7.3,
+    "duration": 154,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 224,
+    "title": "Virtual Reality 224",
+    "year": 2000,
+    "genre": "Thriller",
+    "director": "David Fincher",
+    "rating": 7.8,
+    "duration": 140,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 225,
+    "title": "Dark Night 225",
+    "year": 1991,
+    "genre": "Action",
+    "director": "Denis Villeneuve",
+    "rating": 7.6,
+    "duration": 165,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 226,
+    "title": "Desert Wind 226",
+    "year": 2022,
+    "genre": "Animation",
+    "director": "Stanley Kubrick",
+    "rating": 7.6,
+    "duration": 161,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 227,
+    "title": "Storm Rider 227",
+    "year": 1992,
+    "genre": "Adventure",
+    "director": "Martin Scorsese",
+    "rating": 7.6,
+    "duration": 161,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 228,
+    "title": "Space Odyssey 228",
+    "year": 1973,
+    "genre": "Animation",
+    "director": "Denis Villeneuve",
+    "rating": 9.4,
+    "duration": 155,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 229,
+    "title": "Forest Mystery 229",
+    "year": 2014,
+    "genre": "Thriller",
+    "director": "Clint Eastwood",
+    "rating": 7.3,
+    "duration": 167,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 230,
+    "title": "Broken Dreams 230",
+    "year": 1977,
+    "genre": "Thriller",
+    "director": "Martin Scorsese",
+    "rating": 8.2,
+    "duration": 122,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 231,
+    "title": "Forgotten Path 231",
+    "year": 2021,
+    "genre": "Sci-Fi",
+    "director": "Sofia Coppola",
+    "rating": 7.8,
+    "duration": 158,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 232,
+    "title": "Iron Will 232",
+    "year": 1972,
+    "genre": "Sci-Fi",
+    "director": "Steven Spielberg",
+    "rating": 8.3,
+    "duration": 166,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 233,
+    "title": "Final Destination 233",
+    "year": 2014,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 5.1,
+    "duration": 145,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 234,
+    "title": "Dark Night 234",
+    "year": 1972,
+    "genre": "Romance",
+    "director": "Stanley Kubrick",
+    "rating": 8.2,
+    "duration": 82,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 235,
+    "title": "Lost Journey 235",
+    "year": 2003,
+    "genre": "Thriller",
+    "director": "Peter Jackson",
+    "rating": 6.5,
+    "duration": 132,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 236,
+    "title": "Virtual Reality 236",
+    "year": 2007,
+    "genre": "Horror",
+    "director": "Francis Ford Coppola",
+    "rating": 6.7,
+    "duration": 170,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 237,
+    "title": "Ancient Secret 237",
+    "year": 1997,
+    "genre": "Animation",
+    "director": "Alfred Hitchcock",
+    "rating": 6.5,
+    "duration": 134,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 238,
+    "title": "Virtual Reality 238",
+    "year": 1974,
+    "genre": "Sci-Fi",
+    "director": "Quentin Tarantino",
+    "rating": 10,
+    "duration": 134,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 239,
+    "title": "Desert Wind 239",
+    "year": 1994,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 6.1,
+    "duration": 148,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 240,
+    "title": "The Shadow 240",
+    "year": 2022,
+    "genre": "Horror",
+    "director": "Sofia Coppola",
+    "rating": 9.4,
+    "duration": 133,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 241,
+    "title": "Desert Wind 241",
+    "year": 1986,
+    "genre": "Animation",
+    "director": "Peter Jackson",
+    "rating": 9.1,
+    "duration": 155,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 242,
+    "title": "Country Roads 242",
+    "year": 2016,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "rating": 6,
+    "duration": 178,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 243,
+    "title": "Analog Heart 243",
+    "year": 1995,
+    "genre": "Drama",
+    "director": "Ridley Scott",
+    "rating": 8.7,
+    "duration": 179,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 244,
+    "title": "The Shadow 244",
+    "year": 2013,
+    "genre": "Adventure",
+    "director": "David Fincher",
+    "rating": 6.3,
+    "duration": 173,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 245,
+    "title": "Silent Whisper 245",
+    "year": 2015,
+    "genre": "Thriller",
+    "director": "David Fincher",
+    "rating": 7.5,
+    "duration": 91,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 246,
+    "title": "Mountain High 246",
+    "year": 1994,
+    "genre": "Action",
+    "director": "Ridley Scott",
+    "rating": 9.4,
+    "duration": 102,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 247,
+    "title": "Analog Heart 247",
+    "year": 2002,
+    "genre": "Animation",
+    "director": "Ridley Scott",
+    "rating": 9.4,
+    "duration": 80,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 248,
+    "title": "City Lights 248",
+    "year": 1976,
+    "genre": "Comedy",
+    "director": "Stanley Kubrick",
+    "rating": 9.2,
+    "duration": 130,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 249,
+    "title": "City Lights 249",
+    "year": 1994,
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "rating": 7.9,
+    "duration": 160,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 250,
+    "title": "Lost Journey 250",
+    "year": 2023,
+    "genre": "Fantasy",
+    "director": "Martin Scorsese",
+    "rating": 7.9,
+    "duration": 179,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 251,
+    "title": "Golden Age 251",
+    "year": 2003,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 9.3,
+    "duration": 174,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 252,
+    "title": "Silver Lining 252",
+    "year": 2001,
+    "genre": "Romance",
+    "director": "Ridley Scott",
+    "rating": 6.9,
+    "duration": 160,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 253,
+    "title": "Desert Wind 253",
+    "year": 2024,
+    "genre": "Fantasy",
+    "director": "Alfred Hitchcock",
+    "rating": 9.9,
+    "duration": 109,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 254,
+    "title": "Future Past 254",
+    "year": 2014,
+    "genre": "Comedy",
+    "director": "Steven Spielberg",
+    "rating": 7.2,
+    "duration": 103,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 255,
+    "title": "Forest Mystery 255",
+    "year": 1996,
+    "genre": "Animation",
+    "director": "Christopher Nolan",
+    "rating": 7,
+    "duration": 167,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 256,
+    "title": "Space Odyssey 256",
+    "year": 1987,
+    "genre": "Drama",
+    "director": "Christopher Nolan",
+    "rating": 8.8,
+    "duration": 101,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 257,
+    "title": "Final Destination 257",
+    "year": 2009,
+    "genre": "Thriller",
+    "director": "Quentin Tarantino",
+    "rating": 7.2,
+    "duration": 162,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 258,
+    "title": "Iron Will 258",
+    "year": 2004,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "rating": 9.1,
+    "duration": 126,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 259,
+    "title": "Analog Heart 259",
+    "year": 2021,
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "rating": 8.4,
+    "duration": 80,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 260,
+    "title": "Ocean Deep 260",
+    "year": 2009,
+    "genre": "Action",
+    "director": "Sofia Coppola",
+    "rating": 7.7,
+    "duration": 137,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 261,
+    "title": "Time Traveler 261",
+    "year": 1982,
+    "genre": "Action",
+    "director": "Steven Spielberg",
+    "rating": 7.6,
+    "duration": 175,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 262,
+    "title": "Desert Wind 262",
+    "year": 2018,
+    "genre": "Animation",
+    "director": "Ridley Scott",
+    "rating": 8.6,
+    "duration": 153,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 263,
+    "title": "Storm Rider 263",
+    "year": 1981,
+    "genre": "Romance",
+    "director": "Ridley Scott",
+    "rating": 7.5,
+    "duration": 87,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 264,
+    "title": "Digital Dream 264",
+    "year": 1995,
+    "genre": "Romance",
+    "director": "Denis Villeneuve",
+    "rating": 5.4,
+    "duration": 114,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 265,
+    "title": "Digital Dream 265",
+    "year": 2021,
+    "genre": "Animation",
+    "director": "Steven Spielberg",
+    "rating": 9,
+    "duration": 135,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 266,
+    "title": "Country Roads 266",
+    "year": 1973,
+    "genre": "Horror",
+    "director": "Peter Jackson",
+    "rating": 9.7,
+    "duration": 111,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 267,
+    "title": "Midnight Express 267",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "rating": 8.7,
+    "duration": 132,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 268,
+    "title": "Ocean Deep 268",
+    "year": 2021,
+    "genre": "Adventure",
+    "director": "Wes Anderson",
+    "rating": 5.6,
+    "duration": 133,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 269,
+    "title": "Ocean Deep 269",
+    "year": 1985,
+    "genre": "Fantasy",
+    "director": "Alfred Hitchcock",
+    "rating": 6.1,
+    "duration": 87,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 270,
+    "title": "Space Odyssey 270",
+    "year": 2013,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "rating": 5.4,
+    "duration": 101,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 271,
+    "title": "Desert Wind 271",
+    "year": 2004,
+    "genre": "Sci-Fi",
+    "director": "Steven Spielberg",
+    "rating": 8.5,
+    "duration": 134,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 272,
+    "title": "Digital Dream 272",
+    "year": 2009,
+    "genre": "Adventure",
+    "director": "Clint Eastwood",
+    "rating": 5.1,
+    "duration": 98,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 273,
+    "title": "Forest Mystery 273",
+    "year": 2002,
+    "genre": "Thriller",
+    "director": "Sofia Coppola",
+    "rating": 7.7,
+    "duration": 98,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 274,
+    "title": "The Shadow 274",
+    "year": 2012,
+    "genre": "Romance",
+    "director": "Ridley Scott",
+    "rating": 8,
+    "duration": 176,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 275,
+    "title": "Broken Dreams 275",
+    "year": 1992,
+    "genre": "Sci-Fi",
+    "director": "Ridley Scott",
+    "rating": 7.3,
+    "duration": 167,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 276,
+    "title": "Lost Journey 276",
+    "year": 1992,
+    "genre": "Fantasy",
+    "director": "Wes Anderson",
+    "rating": 7.3,
+    "duration": 123,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 277,
+    "title": "Silent Whisper 277",
+    "year": 1994,
+    "genre": "Comedy",
+    "director": "Ridley Scott",
+    "rating": 9.3,
+    "duration": 104,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 278,
+    "title": "Silent Whisper 278",
+    "year": 1981,
+    "genre": "Horror",
+    "director": "Martin Scorsese",
+    "rating": 7,
+    "duration": 96,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 279,
+    "title": "Time Traveler 279",
+    "year": 2005,
+    "genre": "Fantasy",
+    "director": "Sofia Coppola",
+    "rating": 7.9,
+    "duration": 144,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 280,
+    "title": "Iron Will 280",
+    "year": 1979,
+    "genre": "Comedy",
+    "director": "Steven Spielberg",
+    "rating": 5,
+    "duration": 92,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 281,
+    "title": "Ocean Deep 281",
+    "year": 1992,
+    "genre": "Action",
+    "director": "Peter Jackson",
+    "rating": 5.7,
+    "duration": 118,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 282,
+    "title": "Country Roads 282",
+    "year": 2000,
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "rating": 6.7,
+    "duration": 84,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 283,
+    "title": "Country Roads 283",
+    "year": 2019,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "rating": 9.4,
+    "duration": 162,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 284,
+    "title": "Hidden Truth 284",
+    "year": 1971,
+    "genre": "Horror",
+    "director": "Christopher Nolan",
+    "rating": 8.4,
+    "duration": 86,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 285,
+    "title": "Space Odyssey 285",
+    "year": 1990,
+    "genre": "Comedy",
+    "director": "Quentin Tarantino",
+    "rating": 8.5,
+    "duration": 111,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 286,
+    "title": "Virtual Reality 286",
+    "year": 2000,
+    "genre": "Sci-Fi",
+    "director": "Denis Villeneuve",
+    "rating": 7.3,
+    "duration": 151,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 287,
+    "title": "Midnight Express 287",
+    "year": 1990,
+    "genre": "Animation",
+    "director": "Sofia Coppola",
+    "rating": 6.2,
+    "duration": 130,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 288,
+    "title": "Final Destination 288",
+    "year": 1974,
+    "genre": "Adventure",
+    "director": "Denis Villeneuve",
+    "rating": 5,
+    "duration": 132,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 289,
+    "title": "Virtual Reality 289",
+    "year": 1976,
+    "genre": "Fantasy",
+    "director": "Stanley Kubrick",
+    "rating": 9.9,
+    "duration": 131,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 290,
+    "title": "Lost Journey 290",
+    "year": 2024,
+    "genre": "Sci-Fi",
+    "director": "David Fincher",
+    "rating": 8.8,
+    "duration": 115,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 291,
+    "title": "Silver Lining 291",
+    "year": 2018,
+    "genre": "Sci-Fi",
+    "director": "Sofia Coppola",
+    "rating": 5.1,
+    "duration": 163,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 292,
+    "title": "Crystal Vision 292",
+    "year": 1976,
+    "genre": "Horror",
+    "director": "Martin Scorsese",
+    "rating": 5.1,
+    "duration": 154,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 293,
+    "title": "Silent Whisper 293",
+    "year": 1994,
+    "genre": "Horror",
+    "director": "Alfred Hitchcock",
+    "rating": 9.5,
+    "duration": 157,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 294,
+    "title": "Silver Lining 294",
+    "year": 2019,
+    "genre": "Action",
+    "director": "Peter Jackson",
+    "rating": 6.2,
+    "duration": 124,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 295,
+    "title": "Golden Age 295",
+    "year": 2020,
+    "genre": "Horror",
+    "director": "Peter Jackson",
+    "rating": 8.3,
+    "duration": 150,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 296,
+    "title": "Future Past 296",
+    "year": 2005,
+    "genre": "Animation",
+    "director": "David Fincher",
+    "rating": 8.9,
+    "duration": 119,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 297,
+    "title": "Dark Night 297",
+    "year": 1971,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 8.6,
+    "duration": 127,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 298,
+    "title": "Digital Dream 298",
+    "year": 2024,
+    "genre": "Action",
+    "director": "Stanley Kubrick",
+    "rating": 8.6,
+    "duration": 95,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 299,
+    "title": "Country Roads 299",
+    "year": 1974,
+    "genre": "Animation",
+    "director": "Wes Anderson",
+    "rating": 9.1,
+    "duration": 165,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 300,
+    "title": "Storm Rider 300",
+    "year": 1985,
+    "genre": "Adventure",
+    "director": "Clint Eastwood",
+    "rating": 6.9,
+    "duration": 178,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 301,
+    "title": "Lost Journey 301",
+    "year": 2022,
+    "genre": "Comedy",
+    "director": "David Fincher",
+    "rating": 6.1,
+    "duration": 171,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 302,
+    "title": "Mountain High 302",
+    "year": 1981,
+    "genre": "Animation",
+    "director": "Steven Spielberg",
+    "rating": 9.4,
+    "duration": 120,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 303,
+    "title": "Space Odyssey 303",
+    "year": 1993,
+    "genre": "Action",
+    "director": "Denis Villeneuve",
+    "rating": 8,
+    "duration": 172,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 304,
+    "title": "Desert Wind 304",
+    "year": 1983,
+    "genre": "Action",
+    "director": "Steven Spielberg",
+    "rating": 9.6,
+    "duration": 167,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 305,
+    "title": "Time Traveler 305",
+    "year": 1991,
+    "genre": "Comedy",
+    "director": "Alfred Hitchcock",
+    "rating": 8.6,
+    "duration": 95,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 306,
+    "title": "Analog Heart 306",
+    "year": 1977,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 8.9,
+    "duration": 157,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 307,
+    "title": "Midnight Express 307",
+    "year": 2000,
+    "genre": "Romance",
+    "director": "Steven Spielberg",
+    "rating": 9.4,
+    "duration": 160,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 308,
+    "title": "Forgotten Path 308",
+    "year": 2004,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 7,
+    "duration": 97,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 309,
+    "title": "Final Destination 309",
+    "year": 2020,
+    "genre": "Action",
+    "director": "Stanley Kubrick",
+    "rating": 8.8,
+    "duration": 84,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 310,
+    "title": "Space Odyssey 310",
+    "year": 1994,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 9.3,
+    "duration": 149,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 311,
+    "title": "Forest Mystery 311",
+    "year": 2004,
+    "genre": "Comedy",
+    "director": "David Fincher",
+    "rating": 6.6,
+    "duration": 159,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 312,
+    "title": "Forest Mystery 312",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "director": "Ridley Scott",
+    "rating": 8.5,
+    "duration": 106,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 313,
+    "title": "Final Destination 313",
+    "year": 2015,
+    "genre": "Drama",
+    "director": "Quentin Tarantino",
+    "rating": 8,
+    "duration": 106,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 314,
+    "title": "Mountain High 314",
+    "year": 2021,
+    "genre": "Romance",
+    "director": "Christopher Nolan",
+    "rating": 9,
+    "duration": 83,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 315,
+    "title": "Silent Whisper 315",
+    "year": 2009,
+    "genre": "Action",
+    "director": "Peter Jackson",
+    "rating": 7.6,
+    "duration": 108,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 316,
+    "title": "Forest Mystery 316",
+    "year": 1981,
+    "genre": "Animation",
+    "director": "Quentin Tarantino",
+    "rating": 6.1,
+    "duration": 94,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 317,
+    "title": "Space Odyssey 317",
+    "year": 2022,
+    "genre": "Drama",
+    "director": "Steven Spielberg",
+    "rating": 7.4,
+    "duration": 131,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 318,
+    "title": "Midnight Express 318",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "rating": 6,
+    "duration": 132,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 319,
+    "title": "Dark Night 319",
+    "year": 2020,
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "rating": 6.9,
+    "duration": 124,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 320,
+    "title": "Crystal Vision 320",
+    "year": 1981,
+    "genre": "Thriller",
+    "director": "Wes Anderson",
+    "rating": 5.9,
+    "duration": 88,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 321,
+    "title": "Golden Age 321",
+    "year": 2006,
+    "genre": "Fantasy",
+    "director": "Martin Scorsese",
+    "rating": 9.3,
+    "duration": 165,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 322,
+    "title": "The Shadow 322",
+    "year": 2016,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 6.6,
+    "duration": 142,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 323,
+    "title": "Rising Sun 323",
+    "year": 1986,
+    "genre": "Fantasy",
+    "director": "David Fincher",
+    "rating": 7.8,
+    "duration": 123,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 324,
+    "title": "Digital Dream 324",
+    "year": 1986,
+    "genre": "Sci-Fi",
+    "director": "Sofia Coppola",
+    "rating": 9.3,
+    "duration": 156,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 325,
+    "title": "Forgotten Path 325",
+    "year": 1974,
+    "genre": "Comedy",
+    "director": "Steven Spielberg",
+    "rating": 8.5,
+    "duration": 117,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 326,
+    "title": "The Shadow 326",
+    "year": 1991,
+    "genre": "Animation",
+    "director": "Denis Villeneuve",
+    "rating": 6.3,
+    "duration": 136,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 327,
+    "title": "Hidden Truth 327",
+    "year": 2013,
+    "genre": "Sci-Fi",
+    "director": "Martin Scorsese",
+    "rating": 8.5,
+    "duration": 88,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 328,
+    "title": "Future Past 328",
+    "year": 2005,
+    "genre": "Fantasy",
+    "director": "Francis Ford Coppola",
+    "rating": 8.6,
+    "duration": 127,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 329,
+    "title": "Forgotten Path 329",
+    "year": 1985,
+    "genre": "Drama",
+    "director": "Ridley Scott",
+    "rating": 7.3,
+    "duration": 130,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 330,
+    "title": "Digital Dream 330",
+    "year": 1975,
+    "genre": "Sci-Fi",
+    "director": "Stanley Kubrick",
+    "rating": 9.3,
+    "duration": 84,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 331,
+    "title": "The Shadow 331",
+    "year": 1981,
+    "genre": "Horror",
+    "director": "Alfred Hitchcock",
+    "rating": 7.9,
+    "duration": 84,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 332,
+    "title": "The Shadow 332",
+    "year": 2015,
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "rating": 6.1,
+    "duration": 93,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 333,
+    "title": "Golden Age 333",
+    "year": 1997,
+    "genre": "Sci-Fi",
+    "director": "Alfred Hitchcock",
+    "rating": 9.4,
+    "duration": 88,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 334,
+    "title": "Hidden Truth 334",
+    "year": 2014,
+    "genre": "Fantasy",
+    "director": "Sofia Coppola",
+    "rating": 6.2,
+    "duration": 127,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 335,
+    "title": "Desert Wind 335",
+    "year": 2012,
+    "genre": "Drama",
+    "director": "Quentin Tarantino",
+    "rating": 7.8,
+    "duration": 120,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 336,
+    "title": "Lost Journey 336",
+    "year": 2024,
+    "genre": "Romance",
+    "director": "Stanley Kubrick",
+    "rating": 8.9,
+    "duration": 82,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 337,
+    "title": "Rising Sun 337",
+    "year": 2006,
+    "genre": "Adventure",
+    "director": "Denis Villeneuve",
+    "rating": 9.6,
+    "duration": 169,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 338,
+    "title": "Analog Heart 338",
+    "year": 1999,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 7.1,
+    "duration": 159,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 339,
+    "title": "Virtual Reality 339",
+    "year": 2020,
+    "genre": "Fantasy",
+    "director": "Francis Ford Coppola",
+    "rating": 6.3,
+    "duration": 141,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 340,
+    "title": "Lost Journey 340",
+    "year": 1972,
+    "genre": "Drama",
+    "director": "Christopher Nolan",
+    "rating": 8.5,
+    "duration": 170,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 341,
+    "title": "Broken Dreams 341",
+    "year": 2015,
+    "genre": "Animation",
+    "director": "Wes Anderson",
+    "rating": 8.6,
+    "duration": 97,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 342,
+    "title": "Iron Will 342",
+    "year": 2004,
+    "genre": "Action",
+    "director": "Peter Jackson",
+    "rating": 6.7,
+    "duration": 83,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 343,
+    "title": "The Shadow 343",
+    "year": 1988,
+    "genre": "Horror",
+    "director": "Sofia Coppola",
+    "rating": 8.2,
+    "duration": 171,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 344,
+    "title": "Midnight Express 344",
+    "year": 1977,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 6.4,
+    "duration": 164,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 345,
+    "title": "Ancient Secret 345",
+    "year": 1981,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 8.3,
+    "duration": 128,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 346,
+    "title": "Crystal Vision 346",
+    "year": 1998,
+    "genre": "Fantasy",
+    "director": "Wes Anderson",
+    "rating": 8.8,
+    "duration": 164,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 347,
+    "title": "Digital Dream 347",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "James Cameron",
+    "rating": 6.8,
+    "duration": 133,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 348,
+    "title": "Broken Dreams 348",
+    "year": 1990,
+    "genre": "Romance",
+    "director": "Clint Eastwood",
+    "rating": 8.9,
+    "duration": 117,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 349,
+    "title": "Desert Wind 349",
+    "year": 1991,
+    "genre": "Thriller",
+    "director": "Stanley Kubrick",
+    "rating": 9.3,
+    "duration": 107,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 350,
+    "title": "Hidden Truth 350",
+    "year": 2012,
+    "genre": "Animation",
+    "director": "Alfred Hitchcock",
+    "rating": 6.5,
+    "duration": 86,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 351,
+    "title": "The Shadow 351",
+    "year": 2023,
+    "genre": "Animation",
+    "director": "Stanley Kubrick",
+    "rating": 7.1,
+    "duration": 138,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 352,
+    "title": "Crystal Vision 352",
+    "year": 2012,
+    "genre": "Animation",
+    "director": "Alfred Hitchcock",
+    "rating": 6.3,
+    "duration": 87,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 353,
+    "title": "Ancient Secret 353",
+    "year": 2020,
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "rating": 5.6,
+    "duration": 104,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 354,
+    "title": "Dark Night 354",
+    "year": 1989,
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "rating": 5.8,
+    "duration": 118,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 355,
+    "title": "Midnight Express 355",
+    "year": 2016,
+    "genre": "Romance",
+    "director": "Quentin Tarantino",
+    "rating": 7.7,
+    "duration": 149,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 356,
+    "title": "Digital Dream 356",
+    "year": 2012,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 9,
+    "duration": 95,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 357,
+    "title": "Silver Lining 357",
+    "year": 1988,
+    "genre": "Romance",
+    "director": "Peter Jackson",
+    "rating": 7.6,
+    "duration": 113,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 358,
+    "title": "Space Odyssey 358",
+    "year": 1985,
+    "genre": "Romance",
+    "director": "Denis Villeneuve",
+    "rating": 6.6,
+    "duration": 117,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 359,
+    "title": "Country Roads 359",
+    "year": 1988,
+    "genre": "Comedy",
+    "director": "Francis Ford Coppola",
+    "rating": 5.3,
+    "duration": 84,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 360,
+    "title": "Storm Rider 360",
+    "year": 1972,
+    "genre": "Horror",
+    "director": "Clint Eastwood",
+    "rating": 8.1,
+    "duration": 127,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 361,
+    "title": "Forgotten Path 361",
+    "year": 1992,
+    "genre": "Horror",
+    "director": "Martin Scorsese",
+    "rating": 7.5,
+    "duration": 112,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 362,
+    "title": "Rising Sun 362",
+    "year": 1982,
+    "genre": "Drama",
+    "director": "Ridley Scott",
+    "rating": 7.1,
+    "duration": 116,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 363,
+    "title": "Ocean Deep 363",
+    "year": 1989,
+    "genre": "Sci-Fi",
+    "director": "Stanley Kubrick",
+    "rating": 5.3,
+    "duration": 81,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 364,
+    "title": "Dark Night 364",
+    "year": 2024,
+    "genre": "Fantasy",
+    "director": "Steven Spielberg",
+    "rating": 9.5,
+    "duration": 170,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 365,
+    "title": "Golden Age 365",
+    "year": 2015,
+    "genre": "Sci-Fi",
+    "director": "Ridley Scott",
+    "rating": 5.2,
+    "duration": 135,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 366,
+    "title": "Ocean Deep 366",
+    "year": 1977,
+    "genre": "Sci-Fi",
+    "director": "Steven Spielberg",
+    "rating": 8.5,
+    "duration": 153,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 367,
+    "title": "Ancient Secret 367",
+    "year": 1988,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 8.9,
+    "duration": 123,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 368,
+    "title": "Silver Lining 368",
+    "year": 2006,
+    "genre": "Action",
+    "director": "Martin Scorsese",
+    "rating": 8.7,
+    "duration": 141,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 369,
+    "title": "Desert Wind 369",
+    "year": 1984,
+    "genre": "Horror",
+    "director": "Alfred Hitchcock",
+    "rating": 6.1,
+    "duration": 90,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 370,
+    "title": "Silver Lining 370",
+    "year": 2007,
+    "genre": "Comedy",
+    "director": "Denis Villeneuve",
+    "rating": 9.5,
+    "duration": 120,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 371,
+    "title": "The Shadow 371",
+    "year": 1990,
+    "genre": "Adventure",
+    "director": "Alfred Hitchcock",
+    "rating": 5.5,
+    "duration": 172,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 372,
+    "title": "Ocean Deep 372",
+    "year": 2000,
+    "genre": "Fantasy",
+    "director": "James Cameron",
+    "rating": 6,
+    "duration": 135,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 373,
+    "title": "Future Past 373",
+    "year": 1986,
+    "genre": "Adventure",
+    "director": "James Cameron",
+    "rating": 5.3,
+    "duration": 172,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 374,
+    "title": "Modern Life 374",
+    "year": 2017,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "rating": 8.6,
+    "duration": 87,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 375,
+    "title": "Analog Heart 375",
+    "year": 2016,
+    "genre": "Fantasy",
+    "director": "David Fincher",
+    "rating": 5.9,
+    "duration": 149,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 376,
+    "title": "Lost Journey 376",
+    "year": 1971,
+    "genre": "Sci-Fi",
+    "director": "Peter Jackson",
+    "rating": 8.2,
+    "duration": 149,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 377,
+    "title": "Ancient Secret 377",
+    "year": 2023,
+    "genre": "Fantasy",
+    "director": "Stanley Kubrick",
+    "rating": 7.7,
+    "duration": 175,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 378,
+    "title": "Virtual Reality 378",
+    "year": 2019,
+    "genre": "Action",
+    "director": "Alfred Hitchcock",
+    "rating": 8.4,
+    "duration": 110,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 379,
+    "title": "Space Odyssey 379",
+    "year": 2008,
+    "genre": "Animation",
+    "director": "Christopher Nolan",
+    "rating": 5.6,
+    "duration": 106,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 380,
+    "title": "Ocean Deep 380",
+    "year": 1990,
+    "genre": "Drama",
+    "director": "Christopher Nolan",
+    "rating": 7.9,
+    "duration": 139,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 381,
+    "title": "Ancient Secret 381",
+    "year": 2016,
+    "genre": "Animation",
+    "director": "Ridley Scott",
+    "rating": 6,
+    "duration": 119,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 382,
+    "title": "Ancient Secret 382",
+    "year": 1978,
+    "genre": "Thriller",
+    "director": "Martin Scorsese",
+    "rating": 8.3,
+    "duration": 166,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 383,
+    "title": "Digital Dream 383",
+    "year": 1980,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 7.2,
+    "duration": 159,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 384,
+    "title": "Time Traveler 384",
+    "year": 2013,
+    "genre": "Romance",
+    "director": "Wes Anderson",
+    "rating": 7.4,
+    "duration": 176,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 385,
+    "title": "Virtual Reality 385",
+    "year": 1996,
+    "genre": "Sci-Fi",
+    "director": "Steven Spielberg",
+    "rating": 6.6,
+    "duration": 158,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 386,
+    "title": "Forest Mystery 386",
+    "year": 2007,
+    "genre": "Comedy",
+    "director": "Ridley Scott",
+    "rating": 5.1,
+    "duration": 82,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 387,
+    "title": "Rising Sun 387",
+    "year": 1982,
+    "genre": "Animation",
+    "director": "Denis Villeneuve",
+    "rating": 6.7,
+    "duration": 112,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 388,
+    "title": "Ancient Secret 388",
+    "year": 1978,
+    "genre": "Thriller",
+    "director": "Sofia Coppola",
+    "rating": 9.7,
+    "duration": 88,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 389,
+    "title": "Virtual Reality 389",
+    "year": 2019,
+    "genre": "Adventure",
+    "director": "Ridley Scott",
+    "rating": 6.5,
+    "duration": 90,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 390,
+    "title": "Iron Will 390",
+    "year": 1972,
+    "genre": "Action",
+    "director": "Wes Anderson",
+    "rating": 6.8,
+    "duration": 92,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 391,
+    "title": "Modern Life 391",
+    "year": 1986,
+    "genre": "Drama",
+    "director": "Clint Eastwood",
+    "rating": 6.9,
+    "duration": 133,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 392,
+    "title": "Eternal Love 392",
+    "year": 1984,
+    "genre": "Animation",
+    "director": "Denis Villeneuve",
+    "rating": 6.6,
+    "duration": 95,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 393,
+    "title": "Ocean Deep 393",
+    "year": 1986,
+    "genre": "Sci-Fi",
+    "director": "David Fincher",
+    "rating": 8.7,
+    "duration": 144,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 394,
+    "title": "Broken Dreams 394",
+    "year": 2014,
+    "genre": "Thriller",
+    "director": "Clint Eastwood",
+    "rating": 9.5,
+    "duration": 107,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 395,
+    "title": "Broken Dreams 395",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "rating": 9,
+    "duration": 124,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 396,
+    "title": "Iron Will 396",
+    "year": 2007,
+    "genre": "Thriller",
+    "director": "David Fincher",
+    "rating": 8.7,
+    "duration": 98,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 397,
+    "title": "Broken Dreams 397",
+    "year": 1987,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 9.8,
+    "duration": 164,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 398,
+    "title": "Virtual Reality 398",
+    "year": 1977,
+    "genre": "Fantasy",
+    "director": "Clint Eastwood",
+    "rating": 7.9,
+    "duration": 146,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 399,
+    "title": "Country Roads 399",
+    "year": 1986,
+    "genre": "Horror",
+    "director": "Steven Spielberg",
+    "rating": 8.9,
+    "duration": 128,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 400,
+    "title": "Golden Age 400",
+    "year": 1973,
+    "genre": "Animation",
+    "director": "Clint Eastwood",
+    "rating": 9,
+    "duration": 81,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 401,
+    "title": "Golden Age 401",
+    "year": 2007,
+    "genre": "Thriller",
+    "director": "James Cameron",
+    "rating": 5.7,
+    "duration": 81,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 402,
+    "title": "Space Odyssey 402",
+    "year": 2023,
+    "genre": "Action",
+    "director": "Peter Jackson",
+    "rating": 8.5,
+    "duration": 120,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 403,
+    "title": "Crystal Vision 403",
+    "year": 1974,
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "rating": 10,
+    "duration": 119,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 404,
+    "title": "Broken Dreams 404",
+    "year": 2011,
+    "genre": "Fantasy",
+    "director": "Christopher Nolan",
+    "rating": 5.7,
+    "duration": 171,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 405,
+    "title": "Time Traveler 405",
+    "year": 1990,
+    "genre": "Thriller",
+    "director": "Christopher Nolan",
+    "rating": 8.5,
+    "duration": 89,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 406,
+    "title": "Dark Night 406",
+    "year": 2005,
+    "genre": "Romance",
+    "director": "Christopher Nolan",
+    "rating": 6.3,
+    "duration": 145,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 407,
+    "title": "Eternal Love 407",
+    "year": 2015,
+    "genre": "Romance",
+    "director": "Denis Villeneuve",
+    "rating": 5.3,
+    "duration": 108,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 408,
+    "title": "Eternal Love 408",
+    "year": 2010,
+    "genre": "Animation",
+    "director": "Quentin Tarantino",
+    "rating": 8.4,
+    "duration": 169,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 409,
+    "title": "Mountain High 409",
+    "year": 2000,
+    "genre": "Horror",
+    "director": "Stanley Kubrick",
+    "rating": 7.6,
+    "duration": 128,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 410,
+    "title": "Space Odyssey 410",
+    "year": 2004,
+    "genre": "Drama",
+    "director": "Peter Jackson",
+    "rating": 7.7,
+    "duration": 154,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 411,
+    "title": "Crystal Vision 411",
+    "year": 1995,
+    "genre": "Horror",
+    "director": "David Fincher",
+    "rating": 8.8,
+    "duration": 94,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 412,
+    "title": "Time Traveler 412",
+    "year": 2018,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 8.4,
+    "duration": 177,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 413,
+    "title": "Mountain High 413",
+    "year": 2023,
+    "genre": "Adventure",
+    "director": "Clint Eastwood",
+    "rating": 8.5,
+    "duration": 122,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 414,
+    "title": "Analog Heart 414",
+    "year": 1989,
+    "genre": "Action",
+    "director": "Quentin Tarantino",
+    "rating": 6.9,
+    "duration": 81,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 415,
+    "title": "Crystal Vision 415",
+    "year": 1996,
+    "genre": "Fantasy",
+    "director": "Ridley Scott",
+    "rating": 7.9,
+    "duration": 173,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 416,
+    "title": "Forgotten Path 416",
+    "year": 1981,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "rating": 7.5,
+    "duration": 98,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 417,
+    "title": "Forest Mystery 417",
+    "year": 2012,
+    "genre": "Animation",
+    "director": "Sofia Coppola",
+    "rating": 5.7,
+    "duration": 118,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 418,
+    "title": "Hidden Truth 418",
+    "year": 1998,
+    "genre": "Animation",
+    "director": "Steven Spielberg",
+    "rating": 7.9,
+    "duration": 116,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 419,
+    "title": "Rising Sun 419",
+    "year": 2000,
+    "genre": "Adventure",
+    "director": "Stanley Kubrick",
+    "rating": 5.4,
+    "duration": 140,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 420,
+    "title": "Midnight Express 420",
+    "year": 1989,
+    "genre": "Thriller",
+    "director": "Quentin Tarantino",
+    "rating": 9.9,
+    "duration": 83,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 421,
+    "title": "Broken Dreams 421",
+    "year": 2021,
+    "genre": "Fantasy",
+    "director": "Steven Spielberg",
+    "rating": 6,
+    "duration": 113,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 422,
+    "title": "Storm Rider 422",
+    "year": 1986,
+    "genre": "Action",
+    "director": "David Fincher",
+    "rating": 6.3,
+    "duration": 169,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 423,
+    "title": "Forgotten Path 423",
+    "year": 1973,
+    "genre": "Action",
+    "director": "Stanley Kubrick",
+    "rating": 9.9,
+    "duration": 96,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 424,
+    "title": "Eternal Love 424",
+    "year": 1974,
+    "genre": "Comedy",
+    "director": "Peter Jackson",
+    "rating": 8.9,
+    "duration": 102,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 425,
+    "title": "Rising Sun 425",
+    "year": 2020,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "rating": 7.7,
+    "duration": 135,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 426,
+    "title": "Hidden Truth 426",
+    "year": 1976,
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "rating": 6.1,
+    "duration": 129,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 427,
+    "title": "Final Destination 427",
+    "year": 2004,
+    "genre": "Horror",
+    "director": "Clint Eastwood",
+    "rating": 6.1,
+    "duration": 143,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 428,
+    "title": "Hidden Truth 428",
+    "year": 1996,
+    "genre": "Romance",
+    "director": "Francis Ford Coppola",
+    "rating": 8.9,
+    "duration": 148,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 429,
+    "title": "Ancient Secret 429",
+    "year": 1999,
+    "genre": "Thriller",
+    "director": "Stanley Kubrick",
+    "rating": 8.7,
+    "duration": 114,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 430,
+    "title": "Dark Night 430",
+    "year": 2016,
+    "genre": "Romance",
+    "director": "David Fincher",
+    "rating": 9.3,
+    "duration": 159,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 431,
+    "title": "Modern Life 431",
+    "year": 1973,
+    "genre": "Romance",
+    "director": "David Fincher",
+    "rating": 7.2,
+    "duration": 165,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 432,
+    "title": "Digital Dream 432",
+    "year": 2001,
+    "genre": "Action",
+    "director": "Sofia Coppola",
+    "rating": 6.5,
+    "duration": 105,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 433,
+    "title": "Forest Mystery 433",
+    "year": 1996,
+    "genre": "Comedy",
+    "director": "Stanley Kubrick",
+    "rating": 6.2,
+    "duration": 170,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 434,
+    "title": "Digital Dream 434",
+    "year": 2006,
+    "genre": "Comedy",
+    "director": "Sofia Coppola",
+    "rating": 5,
+    "duration": 146,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 435,
+    "title": "Eternal Love 435",
+    "year": 2004,
+    "genre": "Thriller",
+    "director": "James Cameron",
+    "rating": 9.9,
+    "duration": 92,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 436,
+    "title": "Midnight Express 436",
+    "year": 2023,
+    "genre": "Thriller",
+    "director": "Francis Ford Coppola",
+    "rating": 6.8,
+    "duration": 166,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 437,
+    "title": "Time Traveler 437",
+    "year": 1978,
+    "genre": "Horror",
+    "director": "Peter Jackson",
+    "rating": 9.3,
+    "duration": 164,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 438,
+    "title": "Storm Rider 438",
+    "year": 2020,
+    "genre": "Action",
+    "director": "Martin Scorsese",
+    "rating": 7.3,
+    "duration": 121,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 439,
+    "title": "Broken Dreams 439",
+    "year": 1988,
+    "genre": "Fantasy",
+    "director": "Sofia Coppola",
+    "rating": 6.4,
+    "duration": 139,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 440,
+    "title": "Modern Life 440",
+    "year": 1974,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 7.3,
+    "duration": 106,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 441,
+    "title": "Modern Life 441",
+    "year": 2014,
+    "genre": "Romance",
+    "director": "Peter Jackson",
+    "rating": 9.6,
+    "duration": 95,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 442,
+    "title": "Future Past 442",
+    "year": 2005,
+    "genre": "Action",
+    "director": "Peter Jackson",
+    "rating": 6.9,
+    "duration": 110,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 443,
+    "title": "Dark Night 443",
+    "year": 1983,
+    "genre": "Action",
+    "director": "Martin Scorsese",
+    "rating": 9.7,
+    "duration": 105,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 444,
+    "title": "Space Odyssey 444",
+    "year": 1982,
+    "genre": "Sci-Fi",
+    "director": "Wes Anderson",
+    "rating": 7.1,
+    "duration": 140,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 445,
+    "title": "Country Roads 445",
+    "year": 1971,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 7.5,
+    "duration": 143,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 446,
+    "title": "Midnight Express 446",
+    "year": 2011,
+    "genre": "Romance",
+    "director": "Peter Jackson",
+    "rating": 5.2,
+    "duration": 165,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 447,
+    "title": "City Lights 447",
+    "year": 1970,
+    "genre": "Fantasy",
+    "director": "Christopher Nolan",
+    "rating": 5,
+    "duration": 89,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 448,
+    "title": "Forest Mystery 448",
+    "year": 1995,
+    "genre": "Fantasy",
+    "director": "Steven Spielberg",
+    "rating": 9.3,
+    "duration": 151,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 449,
+    "title": "Future Past 449",
+    "year": 1973,
+    "genre": "Sci-Fi",
+    "director": "Peter Jackson",
+    "rating": 5.7,
+    "duration": 140,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 450,
+    "title": "Dark Night 450",
+    "year": 1970,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "rating": 9.3,
+    "duration": 146,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 451,
+    "title": "Silent Whisper 451",
+    "year": 1976,
+    "genre": "Horror",
+    "director": "Martin Scorsese",
+    "rating": 6.4,
+    "duration": 172,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 452,
+    "title": "Rising Sun 452",
+    "year": 1970,
+    "genre": "Romance",
+    "director": "Alfred Hitchcock",
+    "rating": 9.9,
+    "duration": 89,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 453,
+    "title": "Golden Age 453",
+    "year": 1980,
+    "genre": "Animation",
+    "director": "Denis Villeneuve",
+    "rating": 5.7,
+    "duration": 96,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 454,
+    "title": "Silent Whisper 454",
+    "year": 1992,
+    "genre": "Action",
+    "director": "Clint Eastwood",
+    "rating": 6.7,
+    "duration": 178,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 455,
+    "title": "Ancient Secret 455",
+    "year": 1995,
+    "genre": "Thriller",
+    "director": "Denis Villeneuve",
+    "rating": 6.1,
+    "duration": 103,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 456,
+    "title": "Forgotten Path 456",
+    "year": 2019,
+    "genre": "Comedy",
+    "director": "Stanley Kubrick",
+    "rating": 7.3,
+    "duration": 144,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 457,
+    "title": "Final Destination 457",
+    "year": 1991,
+    "genre": "Horror",
+    "director": "Denis Villeneuve",
+    "rating": 7.5,
+    "duration": 176,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 458,
+    "title": "Storm Rider 458",
+    "year": 2007,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "rating": 5,
+    "duration": 109,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 459,
+    "title": "Country Roads 459",
+    "year": 1980,
+    "genre": "Fantasy",
+    "director": "Wes Anderson",
+    "rating": 6.6,
+    "duration": 108,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 460,
+    "title": "Analog Heart 460",
+    "year": 1997,
+    "genre": "Drama",
+    "director": "Sofia Coppola",
+    "rating": 7.6,
+    "duration": 152,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 461,
+    "title": "Forest Mystery 461",
+    "year": 2001,
+    "genre": "Thriller",
+    "director": "Denis Villeneuve",
+    "rating": 7,
+    "duration": 113,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 462,
+    "title": "Forest Mystery 462",
+    "year": 2008,
+    "genre": "Action",
+    "director": "Denis Villeneuve",
+    "rating": 5.9,
+    "duration": 130,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 463,
+    "title": "Country Roads 463",
+    "year": 2001,
+    "genre": "Drama",
+    "director": "Christopher Nolan",
+    "rating": 7.3,
+    "duration": 124,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 464,
+    "title": "Analog Heart 464",
+    "year": 1975,
+    "genre": "Drama",
+    "director": "Martin Scorsese",
+    "rating": 6.7,
+    "duration": 139,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 465,
+    "title": "The Shadow 465",
+    "year": 2021,
+    "genre": "Adventure",
+    "director": "Francis Ford Coppola",
+    "rating": 7.5,
+    "duration": 132,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 466,
+    "title": "Dark Night 466",
+    "year": 1997,
+    "genre": "Fantasy",
+    "director": "Francis Ford Coppola",
+    "rating": 5.6,
+    "duration": 87,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 467,
+    "title": "Hidden Truth 467",
+    "year": 1975,
+    "genre": "Drama",
+    "director": "Wes Anderson",
+    "rating": 6.5,
+    "duration": 135,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 468,
+    "title": "Analog Heart 468",
+    "year": 1970,
+    "genre": "Animation",
+    "director": "Peter Jackson",
+    "rating": 6.8,
+    "duration": 94,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 469,
+    "title": "Ocean Deep 469",
+    "year": 1978,
+    "genre": "Horror",
+    "director": "Denis Villeneuve",
+    "rating": 8.2,
+    "duration": 135,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 470,
+    "title": "Forgotten Path 470",
+    "year": 2019,
+    "genre": "Animation",
+    "director": "David Fincher",
+    "rating": 7,
+    "duration": 110,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 471,
+    "title": "Ancient Secret 471",
+    "year": 2011,
+    "genre": "Thriller",
+    "director": "Peter Jackson",
+    "rating": 5.3,
+    "duration": 179,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 472,
+    "title": "Ancient Secret 472",
+    "year": 2017,
+    "genre": "Animation",
+    "director": "Christopher Nolan",
+    "rating": 8.3,
+    "duration": 160,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 473,
+    "title": "Country Roads 473",
+    "year": 2018,
+    "genre": "Animation",
+    "director": "Sofia Coppola",
+    "rating": 5.4,
+    "duration": 88,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 474,
+    "title": "Forest Mystery 474",
+    "year": 1989,
+    "genre": "Romance",
+    "director": "Wes Anderson",
+    "rating": 9.7,
+    "duration": 168,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 475,
+    "title": "Time Traveler 475",
+    "year": 1998,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 6.4,
+    "duration": 91,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 476,
+    "title": "Time Traveler 476",
+    "year": 2006,
+    "genre": "Comedy",
+    "director": "Martin Scorsese",
+    "rating": 8,
+    "duration": 140,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 477,
+    "title": "Space Odyssey 477",
+    "year": 1970,
+    "genre": "Action",
+    "director": "Martin Scorsese",
+    "rating": 8,
+    "duration": 155,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 478,
+    "title": "Lost Journey 478",
+    "year": 1971,
+    "genre": "Sci-Fi",
+    "director": "Ridley Scott",
+    "rating": 9.1,
+    "duration": 86,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 479,
+    "title": "Desert Wind 479",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Denis Villeneuve",
+    "rating": 9.9,
+    "duration": 113,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 480,
+    "title": "Forgotten Path 480",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "director": "David Fincher",
+    "rating": 6.5,
+    "duration": 107,
+    "description": "An exciting sci-fi movie that captivates audiences."
+  },
+  {
+    "id": 481,
+    "title": "Silent Whisper 481",
+    "year": 2002,
+    "genre": "Thriller",
+    "director": "Denis Villeneuve",
+    "rating": 5.5,
+    "duration": 135,
+    "description": "An exciting thriller movie that captivates audiences."
+  },
+  {
+    "id": 482,
+    "title": "Ancient Secret 482",
+    "year": 1974,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 9.4,
+    "duration": 102,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 483,
+    "title": "Ocean Deep 483",
+    "year": 2007,
+    "genre": "Sci-Fi",
+    "director": "Francis Ford Coppola",
+    "rating": 6.2,
+    "duration": 147,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 484,
+    "title": "Storm Rider 484",
+    "year": 1988,
+    "genre": "Thriller",
+    "director": "James Cameron",
+    "rating": 6.4,
+    "duration": 113,
+    "description": "An exciting animation movie that captivates audiences."
+  },
+  {
+    "id": 485,
+    "title": "Ocean Deep 485",
+    "year": 1990,
+    "genre": "Sci-Fi",
+    "director": "Francis Ford Coppola",
+    "rating": 7.7,
+    "duration": 82,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 486,
+    "title": "Hidden Truth 486",
+    "year": 1972,
+    "genre": "Action",
+    "director": "Ridley Scott",
+    "rating": 5.1,
+    "duration": 142,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 487,
+    "title": "Storm Rider 487",
+    "year": 1972,
+    "genre": "Sci-Fi",
+    "director": "Denis Villeneuve",
+    "rating": 5.7,
+    "duration": 85,
+    "description": "An exciting horror movie that captivates audiences."
+  },
+  {
+    "id": 488,
+    "title": "Eternal Love 488",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Peter Jackson",
+    "rating": 5.5,
+    "duration": 86,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 489,
+    "title": "The Shadow 489",
+    "year": 1978,
+    "genre": "Action",
+    "director": "Quentin Tarantino",
+    "rating": 8.7,
+    "duration": 80,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 490,
+    "title": "Silver Lining 490",
+    "year": 1983,
+    "genre": "Drama",
+    "director": "Clint Eastwood",
+    "rating": 9.2,
+    "duration": 144,
+    "description": "An exciting romance movie that captivates audiences."
+  },
+  {
+    "id": 491,
+    "title": "Ocean Deep 491",
+    "year": 2003,
+    "genre": "Comedy",
+    "director": "Christopher Nolan",
+    "rating": 5,
+    "duration": 178,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 492,
+    "title": "Dark Night 492",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "director": "James Cameron",
+    "rating": 7.7,
+    "duration": 154,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 493,
+    "title": "Crystal Vision 493",
+    "year": 1973,
+    "genre": "Fantasy",
+    "director": "Quentin Tarantino",
+    "rating": 8,
+    "duration": 106,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 494,
+    "title": "Modern Life 494",
+    "year": 1978,
+    "genre": "Thriller",
+    "director": "Steven Spielberg",
+    "rating": 7.5,
+    "duration": 117,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 495,
+    "title": "Ancient Secret 495",
+    "year": 1997,
+    "genre": "Action",
+    "director": "Wes Anderson",
+    "rating": 7.6,
+    "duration": 163,
+    "description": "An exciting fantasy movie that captivates audiences."
+  },
+  {
+    "id": 496,
+    "title": "Silent Whisper 496",
+    "year": 1990,
+    "genre": "Action",
+    "director": "Steven Spielberg",
+    "rating": 6.5,
+    "duration": 172,
+    "description": "An exciting comedy movie that captivates audiences."
+  },
+  {
+    "id": 497,
+    "title": "Dark Night 497",
+    "year": 1970,
+    "genre": "Sci-Fi",
+    "director": "Sofia Coppola",
+    "rating": 7.4,
+    "duration": 128,
+    "description": "An exciting action movie that captivates audiences."
+  },
+  {
+    "id": 498,
+    "title": "Space Odyssey 498",
+    "year": 2015,
+    "genre": "Romance",
+    "director": "Francis Ford Coppola",
+    "rating": 5.6,
+    "duration": 92,
+    "description": "An exciting adventure movie that captivates audiences."
+  },
+  {
+    "id": 499,
+    "title": "City Lights 499",
+    "year": 1999,
+    "genre": "Horror",
+    "director": "Quentin Tarantino",
+    "rating": 9.2,
+    "duration": 136,
+    "description": "An exciting drama movie that captivates audiences."
+  },
+  {
+    "id": 500,
+    "title": "Forest Mystery 500",
+    "year": 2024,
+    "genre": "Action",
+    "director": "David Fincher",
+    "rating": 6.1,
+    "duration": 158,
+    "description": "An exciting action movie that captivates audiences."
+  }
+]
