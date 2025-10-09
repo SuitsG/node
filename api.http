@@ -16,7 +16,7 @@ Content-Type: application/json
 
 ## Api Rest con Node.js y Express
 ### Recuperar una Pelicula por su ID
-GET http://localhost:1234/movies/514163
+GET http://localhost:1234/movies/
 
 ### Recuperar todas las Peliculas por un genero
 GET http://localhost:1234/movies?genre=HORROR
@@ -31,6 +31,16 @@ Content-Type: application/json
     "genre": "Horror",
     "director": "Steven Spielberg",
     "rating": 8.8,
-    "duration": 157,
-    "description": "An exciting drama movie that captivates audiences."
+    "duration": 142,
+    "description": "An exciting drama movie that captivates audiences.",
+    "image": "https://example.com/digital_dream.jpg"
+}
+
+
+### Actualizar una pelicula
+PATCH http://localhost:1234/movies/6
+Content-Type: application/json
+
+{
+  "year": 2006
 }

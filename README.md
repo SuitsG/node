@@ -22,10 +22,31 @@ Validación de datos
 npm install zod -E
 ```
 
+Validacion de enum array
+```
+genre: z.array(
+    z.enum(['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']),
+    {
+        required_error: 'Movie genre is required.',
+        invalid_type_error: 'Movie genre must be an array of enum Genre'
+    }
+)
+```
+
+### Instalacion de cors
+```
+npm install -E
+```
+
 ## Ejecución del proyecto
 
 ```bash
 npm run dev:1
+```
+## Ejecucion web
+
+```
+npx servor ./web
 ```
 
 ## package.json
@@ -49,7 +70,7 @@ app.get('/movies', (req, res) => {
     const { genre } = req.query
     if (genre) {
         const filteredMovies = movies.filter(
-            movie => movie.genre.toLowerCase() === genre.toLowerCase()
+            movie => movie.genre.toLowerCase() === genre.toLowerCase() // Como es una cadena usa toLowerCase()
         )
         return res.json(filteredMovies)
     }
@@ -64,7 +85,7 @@ app.get('/movies', (req, res) => {
     const { genre } = req.query
     if (genre) {
         const filteredMovies = movies.filter(
-            movie => movie.genre.some(g => g.toLowerCase() === genre.toLowerCase())
+            movie => movie.genre.some(g => g.toLowerCase() === genre.toLowerCase()) //Usa some para areglos
         )
         return res.json(filteredMovies)
     }
